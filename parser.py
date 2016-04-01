@@ -4,6 +4,8 @@ import yaml
 NAMES = {
     'Arsenal FC': 'arsenal',
     'Arsenal': 'arsenal',
+    'AFC Bournemouth': 'bournemouth',
+    'Watford FC': 'watford',
     'Sunderland AFC': 'sunder',
     'Sunderland': 'sunder',
     'Fulham FC': 'fulham',
