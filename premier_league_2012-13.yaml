@@ -1,0 +1,780 @@
+arsenal:
+- {away: 0, date: Aug/18, home: 0, other: sunder, role: H}
+- {away: 0, date: Aug/26, home: 0, other: stoke, role: A}
+- {away: 2, date: Sep/2, home: 0, other: liverpool, role: A}
+- {away: 1, date: Sep/15, home: 6, other: southampton, role: H}
+- {away: 1, date: Sep/23, home: 1, other: manchester city, role: A}
+- {away: 2, date: Sep/29, home: 1, other: chelsea, role: H}
+- {away: 3, date: Oct/6, home: 1, other: west ham, role: A}
+- {away: 0, date: Oct/20, home: 1, other: norwich, role: A}
+- {away: 0, date: Oct/27, home: 1, other: qpr, role: H}
+- {away: 1, date: Nov/3, home: 2, other: manchester united, role: A}
+- {away: 3, date: Nov/10, home: 3, other: fulham, role: H}
+- {away: 2, date: Nov/17, home: 5, other: tottenham, role: H}
+- {away: 0, date: Nov/24, home: 0, other: aston villa, role: A}
+- {away: 1, date: Nov/28, home: 1, other: everton, role: A}
+- {away: 2, date: Dec/1, home: 0, other: swansea, role: H}
+- {away: 0, date: Dec/8, home: 2, other: west brom, role: H}
+- {away: 5, date: Dec/15, home: 2, other: reading, role: A}
+- {away: 1, date: Dec/22, home: 0, other: wigan, role: A}
+- {away: 1, date: Dec/26, home: 5, other: west ham, role: H}
+- {away: 3, date: Dec/29, home: 7, other: newcastle, role: H}
+- {away: 1, date: Jan/1, home: 1, other: southampton, role: A}
+- {away: 2, date: Jan/13, home: 0, other: manchester city, role: H}
+- {away: 1, date: Jan/20, home: 2, other: chelsea, role: A}
+- {away: 2, date: Jan/30, home: 2, other: liverpool, role: H}
+- {away: 0, date: Feb/2, home: 1, other: stoke, role: H}
+- {away: 1, date: Feb/9, home: 0, other: sunder, role: A}
+- {away: 1, date: Feb/23, home: 2, other: aston villa, role: H}
+- {away: 1, date: Mar/3, home: 2, other: tottenham, role: A}
+- {away: 0, date: Apr/16, home: 0, other: everton, role: H}
+- {away: 2, date: Mar/16, home: 0, other: swansea, role: A}
+- {away: 1, date: Mar/30, home: 4, other: reading, role: H}
+- {away: 2, date: Apr/6, home: 1, other: west brom, role: A}
+- {away: 1, date: Apr/13, home: 3, other: norwich, role: H}
+- {away: 1, date: Apr/20, home: 0, other: fulham, role: A}
+- {away: 1, date: Apr/28, home: 1, other: manchester united, role: H}
+- {away: 1, date: May/4, home: 0, other: qpr, role: A}
+- {away: 1, date: May/14, home: 4, other: wigan, role: H}
+- {away: 1, date: May/19, home: 0, other: newcastle, role: A}
+aston villa:
+- {away: 0, date: Aug/18, home: 3, other: west ham, role: A}
+- {away: 3, date: Aug/25, home: 1, other: everton, role: H}
+- {away: 1, date: Sep/2, home: 1, other: newcastle, role: A}
+- {away: 0, date: Sep/15, home: 2, other: swansea, role: H}
+- {away: 1, date: Sep/22, home: 4, other: southampton, role: A}
+- {away: 1, date: Sep/30, home: 1, other: west brom, role: H}
+- {away: 0, date: Oct/7, home: 2, other: tottenham, role: A}
+- {away: 0, date: Oct/20, home: 1, other: fulham, role: A}
+- {away: 1, date: Oct/28, home: 1, other: norwich, role: H}
+- {away: 1, date: Nov/3, home: 0, other: sunder, role: A}
+- {away: 3, date: Nov/10, home: 2, other: manchester united, role: H}
+- {away: 0, date: Nov/17, home: 5, other: manchester city, role: A}
+- {away: 0, date: Nov/24, home: 0, other: arsenal, role: H}
+- {away: 0, date: Nov/27, home: 1, other: reading, role: H}
+- {away: 1, date: Dec/1, home: 1, other: qpr, role: A}
+- {away: 0, date: Dec/8, home: 0, other: stoke, role: H}
+- {away: 3, date: Dec/15, home: 1, other: liverpool, role: A}
+- {away: 0, date: Dec/22, home: 8, other: chelsea, role: A}
+- {away: 4, date: Dec/26, home: 0, other: tottenham, role: H}
+- {away: 3, date: Dec/29, home: 0, other: wigan, role: H}
+- {away: 2, date: Jan/1, home: 2, other: swansea, role: A}
+- {away: 1, date: Jan/12, home: 0, other: southampton, role: H}
+- {away: 2, date: Jan/19, home: 2, other: west brom, role: A}
+- {away: 2, date: Jan/29, home: 1, other: newcastle, role: H}
+- {away: 3, date: Feb/2, home: 3, other: everton, role: A}
+- {away: 1, date: Feb/10, home: 2, other: west ham, role: H}
+- {away: 1, date: Feb/23, home: 2, other: arsenal, role: A}
+- {away: 1, date: Mar/4, home: 0, other: manchester city, role: H}
+- {away: 2, date: Mar/9, home: 1, other: reading, role: A}
+- {away: 2, date: Mar/16, home: 3, other: qpr, role: H}
+- {away: 2, date: Mar/31, home: 1, other: liverpool, role: H}
+- {away: 3, date: Apr/6, home: 1, other: stoke, role: A}
+- {away: 1, date: Apr/13, home: 1, other: fulham, role: H}
+- {away: 0, date: Apr/22, home: 3, other: manchester united, role: A}
+- {away: 1, date: Apr/29, home: 6, other: sunder, role: H}
+- {away: 2, date: May/4, home: 1, other: norwich, role: A}
+- {away: 2, date: May/11, home: 1, other: chelsea, role: H}
+- {away: 2, date: May/19, home: 2, other: wigan, role: A}
+chelsea:
+- {away: 2, date: Aug/19, home: 0, other: wigan, role: A}
+- {away: 0, date: Aug/25, home: 2, other: newcastle, role: H}
+- {away: 2, date: Aug/22, home: 4, other: reading, role: H}
+- {away: 0, date: Sep/15, home: 0, other: qpr, role: A}
+- {away: 0, date: Sep/22, home: 1, other: stoke, role: H}
+- {away: 2, date: Sep/29, home: 1, other: arsenal, role: A}
+- {away: 1, date: Oct/6, home: 4, other: norwich, role: H}
+- {away: 4, date: Oct/20, home: 2, other: tottenham, role: A}
+- {away: 3, date: Oct/28, home: 2, other: manchester united, role: H}
+- {away: 1, date: Nov/3, home: 1, other: swansea, role: A}
+- {away: 1, date: Nov/11, home: 1, other: liverpool, role: H}
+- {away: 1, date: Nov/17, home: 2, other: west brom, role: A}
+- {away: 0, date: Nov/25, home: 0, other: manchester city, role: H}
+- {away: 0, date: Nov/28, home: 0, other: fulham, role: H}
+- {away: 1, date: Dec/1, home: 3, other: west ham, role: A}
+- {away: 3, date: Dec/8, home: 1, other: sunder, role: A}
+- {away: 2, date: Dec/15, home: 2, other: southampton, role: H}
+- {away: 0, date: Dec/22, home: 8, other: aston villa, role: H}
+- {away: 1, date: Dec/26, home: 0, other: norwich, role: A}
+- {away: 2, date: Dec/30, home: 1, other: everton, role: A}
+- {away: 1, date: Jan/2, home: 0, other: qpr, role: H}
+- {away: 4, date: Jan/12, home: 0, other: stoke, role: A}
+- {away: 1, date: Jan/20, home: 2, other: arsenal, role: H}
+- {away: 2, date: Jan/30, home: 2, other: reading, role: A}
+- {away: 2, date: Feb/2, home: 3, other: newcastle, role: A}
+- {away: 1, date: Feb/9, home: 4, other: wigan, role: H}
+- {away: 0, date: Feb/24, home: 2, other: manchester city, role: A}
+- {away: 0, date: Mar/2, home: 1, other: west brom, role: H}
+- {away: 3, date: Apr/17, home: 0, other: fulham, role: A}
+- {away: 0, date: Mar/17, home: 2, other: west ham, role: H}
+- {away: 1, date: Mar/30, home: 2, other: southampton, role: A}
+- {away: 1, date: Apr/7, home: 2, other: sunder, role: H}
+- {away: 2, date: May/8, home: 2, other: tottenham, role: H}
+- {away: 2, date: Apr/21, home: 2, other: liverpool, role: A}
+- {away: 0, date: Apr/28, home: 2, other: swansea, role: H}
+- {away: 1, date: May/5, home: 0, other: manchester united, role: A}
+- {away: 2, date: May/11, home: 1, other: aston villa, role: A}
+- {away: 1, date: May/19, home: 2, other: everton, role: H}
+everton:
+- {away: 0, date: Aug/20, home: 1, other: manchester united, role: H}
+- {away: 3, date: Aug/25, home: 1, other: aston villa, role: A}
+- {away: 0, date: Sep/1, home: 2, other: west brom, role: A}
+- {away: 2, date: Sep/17, home: 2, other: newcastle, role: H}
+- {away: 3, date: Sep/22, home: 0, other: swansea, role: A}
+- {away: 1, date: Sep/29, home: 3, other: southampton, role: H}
+- {away: 2, date: Oct/6, home: 2, other: wigan, role: A}
+- {away: 1, date: Oct/21, home: 1, other: qpr, role: A}
+- {away: 2, date: Oct/27, home: 2, other: liverpool, role: H}
+- {away: 2, date: Nov/3, home: 2, other: fulham, role: A}
+- {away: 1, date: Nov/10, home: 2, other: sunder, role: H}
+- {away: 1, date: Nov/17, home: 2, other: reading, role: A}
+- {away: 1, date: Nov/24, home: 1, other: norwich, role: H}
+- {away: 1, date: Nov/28, home: 1, other: arsenal, role: H}
+- {away: 1, date: Dec/1, home: 1, other: manchester city, role: A}
+- {away: 1, date: Dec/9, home: 2, other: tottenham, role: H}
+- {away: 1, date: Dec/15, home: 1, other: stoke, role: A}
+- {away: 2, date: Dec/22, home: 1, other: west ham, role: A}
+- {away: 1, date: Dec/26, home: 2, other: wigan, role: H}
+- {away: 2, date: Dec/30, home: 1, other: chelsea, role: H}
+- {away: 2, date: Jan/2, home: 1, other: newcastle, role: A}
+- {away: 0, date: Jan/12, home: 0, other: swansea, role: H}
+- {away: 0, date: Jan/21, home: 0, other: southampton, role: A}
+- {away: 1, date: Jan/30, home: 2, other: west brom, role: H}
+- {away: 3, date: Feb/2, home: 3, other: aston villa, role: H}
+- {away: 0, date: Feb/10, home: 2, other: manchester united, role: A}
+- {away: 1, date: Feb/23, home: 2, other: norwich, role: A}
+- {away: 1, date: Mar/2, home: 3, other: reading, role: H}
+- {away: 0, date: Apr/16, home: 0, other: arsenal, role: A}
+- {away: 0, date: Mar/16, home: 2, other: manchester city, role: H}
+- {away: 0, date: Mar/30, home: 1, other: stoke, role: H}
+- {away: 2, date: Apr/7, home: 2, other: tottenham, role: A}
+- {away: 0, date: Apr/13, home: 2, other: qpr, role: H}
+- {away: 0, date: Apr/20, home: 1, other: sunder, role: A}
+- {away: 0, date: Apr/27, home: 1, other: fulham, role: H}
+- {away: 0, date: May/5, home: 0, other: liverpool, role: A}
+- {away: 0, date: May/12, home: 2, other: west ham, role: H}
+- {away: 1, date: May/19, home: 2, other: chelsea, role: A}
+fulham:
+- {away: 0, date: Aug/18, home: 5, other: norwich, role: H}
+- {away: 2, date: Aug/25, home: 3, other: manchester united, role: A}
+- {away: 0, date: Sep/1, home: 3, other: west ham, role: A}
+- {away: 0, date: Sep/15, home: 3, other: west brom, role: H}
+- {away: 2, date: Sep/22, home: 1, other: wigan, role: A}
+- {away: 2, date: Sep/29, home: 1, other: manchester city, role: H}
+- {away: 2, date: Oct/7, home: 2, other: southampton, role: A}
+- {away: 0, date: Oct/20, home: 1, other: aston villa, role: H}
+- {away: 3, date: Oct/27, home: 3, other: reading, role: A}
+- {away: 2, date: Nov/3, home: 2, other: everton, role: H}
+- {away: 3, date: Nov/10, home: 3, other: arsenal, role: A}
+- {away: 3, date: Nov/18, home: 1, other: sunder, role: H}
+- {away: 0, date: Nov/24, home: 1, other: stoke, role: A}
+- {away: 0, date: Nov/28, home: 0, other: chelsea, role: A}
+- {away: 3, date: Dec/1, home: 0, other: tottenham, role: H}
+- {away: 1, date: Dec/8, home: 2, other: newcastle, role: H}
+- {away: 1, date: Dec/15, home: 2, other: qpr, role: A}
+- {away: 0, date: Dec/22, home: 4, other: liverpool, role: A}
+- {away: 1, date: Dec/26, home: 1, other: southampton, role: H}
+- {away: 2, date: Dec/29, home: 1, other: swansea, role: H}
+- {away: 2, date: Jan/1, home: 1, other: west brom, role: A}
+- {away: 1, date: Jan/12, home: 1, other: wigan, role: H}
+- {away: 0, date: Jan/19, home: 2, other: manchester city, role: A}
+- {away: 1, date: Jan/30, home: 3, other: west ham, role: H}
+- {away: 1, date: Feb/2, home: 0, other: manchester united, role: H}
+- {away: 0, date: Feb/9, home: 0, other: norwich, role: A}
+- {away: 0, date: Feb/23, home: 1, other: stoke, role: H}
+- {away: 2, date: Mar/2, home: 2, other: sunder, role: A}
+- {away: 3, date: Apr/17, home: 0, other: chelsea, role: H}
+- {away: 1, date: Mar/17, home: 0, other: tottenham, role: A}
+- {away: 2, date: Apr/1, home: 3, other: qpr, role: H}
+- {away: 0, date: Apr/7, home: 1, other: newcastle, role: A}
+- {away: 1, date: Apr/13, home: 1, other: aston villa, role: A}
+- {away: 1, date: Apr/20, home: 0, other: arsenal, role: H}
+- {away: 0, date: Apr/27, home: 1, other: everton, role: A}
+- {away: 4, date: May/4, home: 2, other: reading, role: H}
+- {away: 3, date: May/12, home: 1, other: liverpool, role: H}
+- {away: 3, date: May/19, home: 0, other: swansea, role: A}
+liverpool:
+- {away: 0, date: Aug/18, home: 3, other: west brom, role: A}
+- {away: 2, date: Aug/26, home: 2, other: manchester city, role: H}
+- {away: 2, date: Sep/2, home: 0, other: arsenal, role: H}
+- {away: 1, date: Sep/15, home: 1, other: sunder, role: A}
+- {away: 2, date: Sep/23, home: 1, other: manchester united, role: H}
+- {away: 5, date: Sep/29, home: 2, other: norwich, role: A}
+- {away: 0, date: Oct/7, home: 0, other: stoke, role: H}
+- {away: 0, date: Oct/20, home: 1, other: reading, role: H}
+- {away: 2, date: Oct/27, home: 2, other: everton, role: A}
+- {away: 1, date: Nov/4, home: 1, other: newcastle, role: H}
+- {away: 1, date: Nov/11, home: 1, other: chelsea, role: A}
+- {away: 0, date: Nov/17, home: 3, other: wigan, role: H}
+- {away: 0, date: Nov/24, home: 0, other: swansea, role: A}
+- {away: 1, date: Nov/28, home: 2, other: tottenham, role: A}
+- {away: 0, date: Dec/1, home: 1, other: southampton, role: H}
+- {away: 3, date: Dec/8, home: 2, other: west ham, role: A}
+- {away: 3, date: Dec/15, home: 1, other: aston villa, role: H}
+- {away: 0, date: Dec/22, home: 4, other: fulham, role: H}
+- {away: 1, date: Dec/26, home: 3, other: stoke, role: A}
+- {away: 3, date: Dec/30, home: 0, other: qpr, role: A}
+- {away: 0, date: Jan/2, home: 3, other: sunder, role: H}
+- {away: 1, date: Jan/13, home: 2, other: manchester united, role: A}
+- {away: 0, date: Jan/19, home: 5, other: norwich, role: H}
+- {away: 2, date: Jan/30, home: 2, other: arsenal, role: A}
+- {away: 2, date: Feb/3, home: 2, other: manchester city, role: A}
+- {away: 2, date: Feb/11, home: 0, other: west brom, role: H}
+- {away: 0, date: Feb/17, home: 5, other: swansea, role: H}
+- {away: 4, date: Mar/2, home: 0, other: wigan, role: A}
+- {away: 2, date: Mar/10, home: 3, other: tottenham, role: H}
+- {away: 1, date: Mar/16, home: 3, other: southampton, role: A}
+- {away: 2, date: Mar/31, home: 1, other: aston villa, role: A}
+- {away: 0, date: Apr/7, home: 0, other: west ham, role: H}
+- {away: 0, date: Apr/13, home: 0, other: reading, role: A}
+- {away: 2, date: Apr/21, home: 2, other: chelsea, role: H}
+- {away: 6, date: Apr/27, home: 0, other: newcastle, role: A}
+- {away: 0, date: May/5, home: 0, other: everton, role: H}
+- {away: 3, date: May/12, home: 1, other: fulham, role: A}
+- {away: 0, date: May/19, home: 1, other: qpr, role: H}
+manchester city:
+- {away: 2, date: Aug/19, home: 3, other: southampton, role: H}
+- {away: 2, date: Aug/26, home: 2, other: liverpool, role: A}
+- {away: 1, date: Sep/1, home: 3, other: qpr, role: H}
+- {away: 1, date: Sep/15, home: 1, other: stoke, role: A}
+- {away: 1, date: Sep/23, home: 1, other: arsenal, role: H}
+- {away: 2, date: Sep/29, home: 1, other: fulham, role: A}
+- {away: 0, date: Oct/6, home: 3, other: sunder, role: H}
+- {away: 2, date: Oct/20, home: 1, other: west brom, role: A}
+- {away: 0, date: Oct/27, home: 1, other: swansea, role: H}
+- {away: 0, date: Nov/3, home: 0, other: west ham, role: A}
+- {away: 1, date: Nov/11, home: 2, other: tottenham, role: H}
+- {away: 0, date: Nov/17, home: 5, other: aston villa, role: H}
+- {away: 0, date: Nov/25, home: 0, other: chelsea, role: A}
+- {away: 2, date: Nov/28, home: 0, other: wigan, role: A}
+- {away: 1, date: Dec/1, home: 1, other: everton, role: H}
+- {away: 3, date: Dec/8, home: 2, other: manchester united, role: H}
+- {away: 3, date: Dec/15, home: 1, other: newcastle, role: A}
+- {away: 0, date: Dec/22, home: 1, other: reading, role: H}
+- {away: 0, date: Dec/26, home: 1, other: sunder, role: A}
+- {away: 4, date: Dec/29, home: 3, other: norwich, role: A}
+- {away: 0, date: Jan/1, home: 3, other: stoke, role: H}
+- {away: 2, date: Jan/13, home: 0, other: arsenal, role: A}
+- {away: 0, date: Jan/19, home: 2, other: fulham, role: H}
+- {away: 0, date: Jan/29, home: 0, other: qpr, role: A}
+- {away: 2, date: Feb/3, home: 2, other: liverpool, role: H}
+- {away: 1, date: Feb/9, home: 3, other: southampton, role: A}
+- {away: 0, date: Feb/24, home: 2, other: chelsea, role: H}
+- {away: 1, date: Mar/4, home: 0, other: aston villa, role: A}
+- {away: 0, date: Apr/17, home: 1, other: wigan, role: H}
+- {away: 0, date: Mar/16, home: 2, other: everton, role: A}
+- {away: 0, date: Mar/30, home: 4, other: newcastle, role: H}
+- {away: 2, date: Apr/8, home: 1, other: manchester united, role: A}
+- {away: 0, date: May/7, home: 1, other: west brom, role: H}
+- {away: 1, date: Apr/21, home: 3, other: tottenham, role: A}
+- {away: 1, date: Apr/27, home: 2, other: west ham, role: H}
+- {away: 0, date: May/4, home: 0, other: swansea, role: A}
+- {away: 2, date: May/14, home: 0, other: reading, role: A}
+- {away: 3, date: May/19, home: 2, other: norwich, role: H}
+manchester united:
+- {away: 0, date: Aug/20, home: 1, other: everton, role: A}
+- {away: 2, date: Aug/25, home: 3, other: fulham, role: H}
+- {away: 3, date: Sep/2, home: 2, other: southampton, role: A}
+- {away: 0, date: Sep/15, home: 4, other: wigan, role: H}
+- {away: 2, date: Sep/23, home: 1, other: liverpool, role: A}
+- {away: 3, date: Sep/29, home: 2, other: tottenham, role: H}
+- {away: 3, date: Oct/7, home: 0, other: newcastle, role: A}
+- {away: 2, date: Oct/20, home: 4, other: stoke, role: H}
+- {away: 3, date: Oct/28, home: 2, other: chelsea, role: A}
+- {away: 1, date: Nov/3, home: 2, other: arsenal, role: H}
+- {away: 3, date: Nov/10, home: 2, other: aston villa, role: A}
+- {away: 0, date: Nov/17, home: 1, other: norwich, role: A}
+- {away: 1, date: Nov/24, home: 3, other: qpr, role: H}
+- {away: 0, date: Nov/28, home: 1, other: west ham, role: H}
+- {away: 4, date: Dec/1, home: 3, other: reading, role: A}
+- {away: 3, date: Dec/8, home: 2, other: manchester city, role: A}
+- {away: 1, date: Dec/15, home: 3, other: sunder, role: H}
+- {away: 1, date: Dec/22, home: 1, other: swansea, role: A}
+- {away: 3, date: Dec/26, home: 4, other: newcastle, role: H}
+- {away: 0, date: Dec/29, home: 2, other: west brom, role: H}
+- {away: 4, date: Jan/1, home: 0, other: wigan, role: A}
+- {away: 1, date: Jan/13, home: 2, other: liverpool, role: H}
+- {away: 1, date: Jan/20, home: 1, other: tottenham, role: A}
+- {away: 1, date: Jan/30, home: 2, other: southampton, role: H}
+- {away: 1, date: Feb/2, home: 0, other: fulham, role: A}
+- {away: 0, date: Feb/10, home: 2, other: everton, role: H}
+- {away: 2, date: Feb/23, home: 0, other: qpr, role: A}
+- {away: 0, date: Mar/2, home: 4, other: norwich, role: H}
+- {away: 2, date: Apr/17, home: 2, other: west ham, role: A}
+- {away: 0, date: Mar/16, home: 1, other: reading, role: H}
+- {away: 1, date: Mar/30, home: 0, other: sunder, role: A}
+- {away: 2, date: Apr/8, home: 1, other: manchester city, role: H}
+- {away: 2, date: Apr/14, home: 0, other: stoke, role: A}
+- {away: 0, date: Apr/22, home: 3, other: aston villa, role: H}
+- {away: 1, date: Apr/28, home: 1, other: arsenal, role: A}
+- {away: 1, date: May/5, home: 0, other: chelsea, role: H}
+- {away: 1, date: May/12, home: 2, other: swansea, role: H}
+- {away: 5, date: May/19, home: 5, other: west brom, role: A}
+newcastle:
+- {away: 1, date: Aug/18, home: 2, other: tottenham, role: H}
+- {away: 0, date: Aug/25, home: 2, other: chelsea, role: A}
+- {away: 1, date: Sep/2, home: 1, other: aston villa, role: H}
+- {away: 2, date: Sep/17, home: 2, other: everton, role: A}
+- {away: 0, date: Sep/23, home: 1, other: norwich, role: H}
+- {away: 2, date: Sep/29, home: 2, other: reading, role: A}
+- {away: 3, date: Oct/7, home: 0, other: manchester united, role: H}
+- {away: 1, date: Oct/21, home: 1, other: sunder, role: A}
+- {away: 1, date: Oct/28, home: 2, other: west brom, role: H}
+- {away: 1, date: Nov/4, home: 1, other: liverpool, role: A}
+- {away: 1, date: Nov/11, home: 0, other: west ham, role: H}
+- {away: 2, date: Nov/17, home: 1, other: swansea, role: H}
+- {away: 0, date: Nov/24, home: 2, other: southampton, role: A}
+- {away: 1, date: Nov/27, home: 2, other: stoke, role: A}
+- {away: 0, date: Dec/1, home: 3, other: wigan, role: H}
+- {away: 1, date: Dec/8, home: 2, other: fulham, role: A}
+- {away: 3, date: Dec/15, home: 1, other: manchester city, role: H}
+- {away: 0, date: Dec/22, home: 1, other: qpr, role: H}
+- {away: 3, date: Dec/26, home: 4, other: manchester united, role: A}
+- {away: 3, date: Dec/29, home: 7, other: arsenal, role: A}
+- {away: 2, date: Jan/2, home: 1, other: everton, role: H}
+- {away: 0, date: Jan/12, home: 0, other: norwich, role: A}
+- {away: 2, date: Jan/19, home: 1, other: reading, role: H}
+- {away: 2, date: Jan/29, home: 1, other: aston villa, role: A}
+- {away: 2, date: Feb/2, home: 3, other: chelsea, role: H}
+- {away: 1, date: Feb/9, home: 2, other: tottenham, role: A}
+- {away: 2, date: Feb/24, home: 4, other: southampton, role: H}
+- {away: 0, date: Mar/2, home: 1, other: swansea, role: A}
+- {away: 1, date: Mar/10, home: 2, other: stoke, role: H}
+- {away: 1, date: Mar/17, home: 2, other: wigan, role: A}
+- {away: 0, date: Mar/30, home: 4, other: manchester city, role: A}
+- {away: 0, date: Apr/7, home: 1, other: fulham, role: H}
+- {away: 3, date: Apr/14, home: 0, other: sunder, role: H}
+- {away: 1, date: Apr/20, home: 1, other: west brom, role: A}
+- {away: 6, date: Apr/27, home: 0, other: liverpool, role: H}
+- {away: 0, date: May/4, home: 0, other: west ham, role: A}
+- {away: 2, date: May/12, home: 1, other: qpr, role: A}
+- {away: 1, date: May/19, home: 0, other: arsenal, role: H}
+norwich:
+- {away: 0, date: Aug/18, home: 5, other: fulham, role: A}
+- {away: 1, date: Aug/25, home: 1, other: qpr, role: H}
+- {away: 1, date: Sep/1, home: 1, other: tottenham, role: A}
+- {away: 0, date: Sep/15, home: 0, other: west ham, role: H}
+- {away: 0, date: Sep/23, home: 1, other: newcastle, role: A}
+- {away: 5, date: Sep/29, home: 2, other: liverpool, role: H}
+- {away: 1, date: Oct/6, home: 4, other: chelsea, role: A}
+- {away: 0, date: Oct/20, home: 1, other: arsenal, role: H}
+- {away: 1, date: Oct/28, home: 1, other: aston villa, role: A}
+- {away: 0, date: Nov/3, home: 1, other: stoke, role: H}
+- {away: 0, date: Nov/10, home: 0, other: reading, role: A}
+- {away: 0, date: Nov/17, home: 1, other: manchester united, role: H}
+- {away: 1, date: Nov/24, home: 1, other: everton, role: A}
+- {away: 1, date: Nov/27, home: 1, other: southampton, role: A}
+- {away: 1, date: Dec/1, home: 2, other: sunder, role: H}
+- {away: 4, date: Dec/8, home: 3, other: swansea, role: A}
+- {away: 1, date: Dec/15, home: 2, other: wigan, role: H}
+- {away: 1, date: Dec/22, home: 2, other: west brom, role: A}
+- {away: 1, date: Dec/26, home: 0, other: chelsea, role: H}
+- {away: 4, date: Dec/29, home: 3, other: manchester city, role: H}
+- {away: 1, date: Jan/1, home: 2, other: west ham, role: A}
+- {away: 0, date: Jan/12, home: 0, other: newcastle, role: H}
+- {away: 0, date: Jan/19, home: 5, other: liverpool, role: A}
+- {away: 1, date: Jan/30, home: 1, other: tottenham, role: H}
+- {away: 0, date: Feb/2, home: 0, other: qpr, role: A}
+- {away: 0, date: Feb/9, home: 0, other: fulham, role: H}
+- {away: 1, date: Feb/23, home: 2, other: everton, role: H}
+- {away: 0, date: Mar/2, home: 4, other: manchester united, role: A}
+- {away: 0, date: Mar/9, home: 0, other: southampton, role: H}
+- {away: 1, date: Mar/17, home: 1, other: sunder, role: A}
+- {away: 0, date: Mar/30, home: 1, other: wigan, role: A}
+- {away: 2, date: Apr/6, home: 2, other: swansea, role: H}
+- {away: 1, date: Apr/13, home: 3, other: arsenal, role: A}
+- {away: 1, date: Apr/20, home: 2, other: reading, role: H}
+- {away: 0, date: Apr/27, home: 1, other: stoke, role: A}
+- {away: 2, date: May/4, home: 1, other: aston villa, role: H}
+- {away: 0, date: May/12, home: 4, other: west brom, role: H}
+- {away: 3, date: May/19, home: 2, other: manchester city, role: A}
+qpr:
+- {away: 5, date: Aug/18, home: 0, other: swansea, role: H}
+- {away: 1, date: Aug/25, home: 1, other: norwich, role: A}
+- {away: 1, date: Sep/1, home: 3, other: manchester city, role: A}
+- {away: 0, date: Sep/15, home: 0, other: chelsea, role: H}
+- {away: 1, date: Sep/23, home: 2, other: tottenham, role: A}
+- {away: 2, date: Oct/1, home: 1, other: west ham, role: H}
+- {away: 2, date: Oct/6, home: 3, other: west brom, role: A}
+- {away: 1, date: Oct/21, home: 1, other: everton, role: H}
+- {away: 0, date: Oct/27, home: 1, other: arsenal, role: A}
+- {away: 1, date: Nov/4, home: 1, other: reading, role: H}
+- {away: 0, date: Nov/10, home: 1, other: stoke, role: A}
+- {away: 3, date: Nov/17, home: 1, other: southampton, role: H}
+- {away: 1, date: Nov/24, home: 3, other: manchester united, role: A}
+- {away: 0, date: Nov/27, home: 0, other: sunder, role: A}
+- {away: 1, date: Dec/1, home: 1, other: aston villa, role: H}
+- {away: 2, date: Dec/8, home: 2, other: wigan, role: A}
+- {away: 1, date: Dec/15, home: 2, other: fulham, role: H}
+- {away: 0, date: Dec/22, home: 1, other: newcastle, role: A}
+- {away: 2, date: Dec/26, home: 1, other: west brom, role: H}
+- {away: 3, date: Dec/30, home: 0, other: liverpool, role: H}
+- {away: 1, date: Jan/2, home: 0, other: chelsea, role: A}
+- {away: 0, date: Jan/12, home: 0, other: tottenham, role: H}
+- {away: 1, date: Jan/19, home: 1, other: west ham, role: A}
+- {away: 0, date: Jan/29, home: 0, other: manchester city, role: H}
+- {away: 0, date: Feb/2, home: 0, other: norwich, role: H}
+- {away: 1, date: Feb/9, home: 4, other: swansea, role: A}
+- {away: 2, date: Feb/23, home: 0, other: manchester united, role: H}
+- {away: 2, date: Mar/2, home: 1, other: southampton, role: A}
+- {away: 1, date: Mar/9, home: 3, other: sunder, role: H}
+- {away: 2, date: Mar/16, home: 3, other: aston villa, role: A}
+- {away: 2, date: Apr/1, home: 3, other: fulham, role: A}
+- {away: 1, date: Apr/7, home: 1, other: wigan, role: H}
+- {away: 0, date: Apr/13, home: 2, other: everton, role: A}
+- {away: 2, date: Apr/20, home: 0, other: stoke, role: H}
+- {away: 0, date: Apr/28, home: 0, other: reading, role: A}
+- {away: 1, date: May/4, home: 0, other: arsenal, role: H}
+- {away: 2, date: May/12, home: 1, other: newcastle, role: H}
+- {away: 0, date: May/19, home: 1, other: liverpool, role: A}
+reading:
+- {away: 1, date: Aug/18, home: 1, other: stoke, role: H}
+- {away: 0, date: Aug/25, home: 3, other: sunder, role: A}
+- {away: 2, date: Aug/22, home: 4, other: chelsea, role: A}
+- {away: 3, date: Sep/16, home: 1, other: tottenham, role: H}
+- {away: 0, date: Sep/22, home: 1, other: west brom, role: A}
+- {away: 2, date: Sep/29, home: 2, other: newcastle, role: H}
+- {away: 2, date: Oct/6, home: 2, other: swansea, role: A}
+- {away: 0, date: Oct/20, home: 1, other: liverpool, role: A}
+- {away: 3, date: Oct/27, home: 3, other: fulham, role: H}
+- {away: 1, date: Nov/4, home: 1, other: qpr, role: A}
+- {away: 0, date: Nov/10, home: 0, other: norwich, role: H}
+- {away: 1, date: Nov/17, home: 2, other: everton, role: H}
+- {away: 2, date: Nov/24, home: 3, other: wigan, role: A}
+- {away: 0, date: Nov/27, home: 1, other: aston villa, role: A}
+- {away: 4, date: Dec/1, home: 3, other: manchester united, role: H}
+- {away: 0, date: Dec/8, home: 1, other: southampton, role: A}
+- {away: 5, date: Dec/15, home: 2, other: arsenal, role: H}
+- {away: 0, date: Dec/22, home: 1, other: manchester city, role: A}
+- {away: 0, date: Dec/26, home: 0, other: swansea, role: H}
+- {away: 0, date: Dec/29, home: 1, other: west ham, role: H}
+- {away: 1, date: Jan/1, home: 3, other: tottenham, role: A}
+- {away: 2, date: Jan/12, home: 3, other: west brom, role: H}
+- {away: 2, date: Jan/19, home: 1, other: newcastle, role: A}
+- {away: 2, date: Jan/30, home: 2, other: chelsea, role: H}
+- {away: 1, date: Feb/2, home: 2, other: sunder, role: H}
+- {away: 1, date: Feb/9, home: 2, other: stoke, role: A}
+- {away: 3, date: Feb/23, home: 0, other: wigan, role: H}
+- {away: 1, date: Mar/2, home: 3, other: everton, role: A}
+- {away: 2, date: Mar/9, home: 1, other: aston villa, role: H}
+- {away: 0, date: Mar/16, home: 1, other: manchester united, role: A}
+- {away: 1, date: Mar/30, home: 4, other: arsenal, role: A}
+- {away: 2, date: Apr/6, home: 0, other: southampton, role: H}
+- {away: 0, date: Apr/13, home: 0, other: liverpool, role: H}
+- {away: 1, date: Apr/20, home: 2, other: norwich, role: A}
+- {away: 0, date: Apr/28, home: 0, other: qpr, role: H}
+- {away: 4, date: May/4, home: 2, other: fulham, role: A}
+- {away: 2, date: May/14, home: 0, other: manchester city, role: H}
+- {away: 2, date: May/19, home: 4, other: west ham, role: A}
+southampton:
+- {away: 2, date: Aug/19, home: 3, other: manchester city, role: A}
+- {away: 2, date: Aug/25, home: 0, other: wigan, role: H}
+- {away: 3, date: Sep/2, home: 2, other: manchester united, role: H}
+- {away: 1, date: Sep/15, home: 6, other: arsenal, role: A}
+- {away: 1, date: Sep/22, home: 4, other: aston villa, role: H}
+- {away: 1, date: Sep/29, home: 3, other: everton, role: A}
+- {away: 2, date: Oct/7, home: 2, other: fulham, role: H}
+- {away: 1, date: Oct/20, home: 4, other: west ham, role: A}
+- {away: 2, date: Oct/28, home: 1, other: tottenham, role: H}
+- {away: 0, date: Nov/5, home: 2, other: west brom, role: A}
+- {away: 1, date: Nov/10, home: 1, other: swansea, role: H}
+- {away: 3, date: Nov/17, home: 1, other: qpr, role: A}
+- {away: 0, date: Nov/24, home: 2, other: newcastle, role: H}
+- {away: 1, date: Nov/27, home: 1, other: norwich, role: H}
+- {away: 0, date: Dec/1, home: 1, other: liverpool, role: A}
+- {away: 0, date: Dec/8, home: 1, other: reading, role: H}
+- {away: 2, date: Dec/15, home: 2, other: chelsea, role: A}
+- {away: 1, date: Dec/22, home: 0, other: sunder, role: H}
+- {away: 1, date: Dec/26, home: 1, other: fulham, role: A}
+- {away: 3, date: Dec/29, home: 3, other: stoke, role: A}
+- {away: 1, date: Jan/1, home: 1, other: arsenal, role: H}
+- {away: 1, date: Jan/12, home: 0, other: aston villa, role: A}
+- {away: 0, date: Jan/21, home: 0, other: everton, role: H}
+- {away: 1, date: Jan/30, home: 2, other: manchester united, role: A}
+- {away: 2, date: Feb/2, home: 2, other: wigan, role: A}
+- {away: 1, date: Feb/9, home: 3, other: manchester city, role: H}
+- {away: 2, date: Feb/24, home: 4, other: newcastle, role: A}
+- {away: 2, date: Mar/2, home: 1, other: qpr, role: H}
+- {away: 0, date: Mar/9, home: 0, other: norwich, role: A}
+- {away: 1, date: Mar/16, home: 3, other: liverpool, role: H}
+- {away: 1, date: Mar/30, home: 2, other: chelsea, role: H}
+- {away: 2, date: Apr/6, home: 0, other: reading, role: A}
+- {away: 1, date: Apr/13, home: 1, other: west ham, role: H}
+- {away: 0, date: Apr/20, home: 0, other: swansea, role: A}
+- {away: 3, date: Apr/27, home: 0, other: west brom, role: H}
+- {away: 0, date: May/4, home: 1, other: tottenham, role: A}
+- {away: 1, date: May/12, home: 1, other: sunder, role: A}
+- {away: 1, date: May/19, home: 1, other: stoke, role: H}
+stoke:
+- {away: 1, date: Aug/18, home: 1, other: reading, role: A}
+- {away: 0, date: Aug/26, home: 0, other: arsenal, role: H}
+- {away: 2, date: Sep/1, home: 2, other: wigan, role: A}
+- {away: 1, date: Sep/15, home: 1, other: manchester city, role: H}
+- {away: 0, date: Sep/22, home: 1, other: chelsea, role: A}
+- {away: 0, date: Sep/29, home: 2, other: swansea, role: H}
+- {away: 0, date: Oct/7, home: 0, other: liverpool, role: A}
+- {away: 2, date: Oct/20, home: 4, other: manchester united, role: A}
+- {away: 0, date: Oct/27, home: 0, other: sunder, role: H}
+- {away: 0, date: Nov/3, home: 1, other: norwich, role: A}
+- {away: 0, date: Nov/10, home: 1, other: qpr, role: H}
+- {away: 1, date: Nov/19, home: 1, other: west ham, role: A}
+- {away: 0, date: Nov/24, home: 1, other: fulham, role: H}
+- {away: 1, date: Nov/27, home: 2, other: newcastle, role: H}
+- {away: 1, date: Dec/1, home: 0, other: west brom, role: A}
+- {away: 0, date: Dec/8, home: 0, other: aston villa, role: A}
+- {away: 1, date: Dec/15, home: 1, other: everton, role: H}
+- {away: 0, date: Dec/22, home: 0, other: tottenham, role: A}
+- {away: 1, date: Dec/26, home: 3, other: liverpool, role: H}
+- {away: 3, date: Dec/29, home: 3, other: southampton, role: H}
+- {away: 0, date: Jan/1, home: 3, other: manchester city, role: A}
+- {away: 4, date: Jan/12, home: 0, other: chelsea, role: H}
+- {away: 1, date: Jan/19, home: 3, other: swansea, role: A}
+- {away: 2, date: Jan/29, home: 2, other: wigan, role: H}
+- {away: 0, date: Feb/2, home: 1, other: arsenal, role: A}
+- {away: 1, date: Feb/9, home: 2, other: reading, role: H}
+- {away: 0, date: Feb/23, home: 1, other: fulham, role: A}
+- {away: 1, date: Mar/2, home: 0, other: west ham, role: H}
+- {away: 1, date: Mar/10, home: 2, other: newcastle, role: A}
+- {away: 0, date: Mar/16, home: 0, other: west brom, role: H}
+- {away: 0, date: Mar/30, home: 1, other: everton, role: A}
+- {away: 3, date: Apr/6, home: 1, other: aston villa, role: H}
+- {away: 2, date: Apr/14, home: 0, other: manchester united, role: H}
+- {away: 2, date: Apr/20, home: 0, other: qpr, role: A}
+- {away: 0, date: Apr/27, home: 1, other: norwich, role: H}
+- {away: 1, date: May/6, home: 1, other: sunder, role: A}
+- {away: 2, date: May/12, home: 1, other: tottenham, role: H}
+- {away: 1, date: May/19, home: 1, other: southampton, role: A}
+sunder:
+- {away: 0, date: Aug/18, home: 0, other: arsenal, role: A}
+- {away: 0, date: Aug/25, home: 3, other: reading, role: H}
+- {away: 2, date: Sep/1, home: 2, other: swansea, role: A}
+- {away: 1, date: Sep/15, home: 1, other: liverpool, role: H}
+- {away: 1, date: Sep/22, home: 1, other: west ham, role: A}
+- {away: 0, date: Sep/29, home: 1, other: wigan, role: H}
+- {away: 0, date: Oct/6, home: 3, other: manchester city, role: A}
+- {away: 1, date: Oct/21, home: 1, other: newcastle, role: H}
+- {away: 0, date: Oct/27, home: 0, other: stoke, role: A}
+- {away: 1, date: Nov/3, home: 0, other: aston villa, role: H}
+- {away: 1, date: Nov/10, home: 2, other: everton, role: A}
+- {away: 3, date: Nov/18, home: 1, other: fulham, role: A}
+- {away: 4, date: Nov/25, home: 2, other: west brom, role: H}
+- {away: 0, date: Nov/27, home: 0, other: qpr, role: H}
+- {away: 1, date: Dec/1, home: 2, other: norwich, role: A}
+- {away: 3, date: Dec/8, home: 1, other: chelsea, role: H}
+- {away: 1, date: Dec/15, home: 3, other: manchester united, role: A}
+- {away: 1, date: Dec/22, home: 0, other: southampton, role: A}
+- {away: 0, date: Dec/26, home: 1, other: manchester city, role: H}
+- {away: 2, date: Dec/29, home: 1, other: tottenham, role: H}
+- {away: 0, date: Jan/2, home: 3, other: liverpool, role: A}
+- {away: 0, date: Jan/12, home: 3, other: west ham, role: H}
+- {away: 3, date: Jan/19, home: 2, other: wigan, role: A}
+- {away: 0, date: Jan/29, home: 0, other: swansea, role: H}
+- {away: 1, date: Feb/2, home: 2, other: reading, role: A}
+- {away: 1, date: Feb/9, home: 0, other: arsenal, role: H}
+- {away: 1, date: Feb/23, home: 2, other: west brom, role: A}
+- {away: 2, date: Mar/2, home: 2, other: fulham, role: H}
+- {away: 1, date: Mar/9, home: 3, other: qpr, role: A}
+- {away: 1, date: Mar/17, home: 1, other: norwich, role: H}
+- {away: 1, date: Mar/30, home: 0, other: manchester united, role: H}
+- {away: 1, date: Apr/7, home: 2, other: chelsea, role: A}
+- {away: 3, date: Apr/14, home: 0, other: newcastle, role: A}
+- {away: 0, date: Apr/20, home: 1, other: everton, role: H}
+- {away: 1, date: Apr/29, home: 6, other: aston villa, role: A}
+- {away: 1, date: May/6, home: 1, other: stoke, role: H}
+- {away: 1, date: May/12, home: 1, other: southampton, role: H}
+- {away: 0, date: May/19, home: 1, other: tottenham, role: A}
+swansea:
+- {away: 5, date: Aug/18, home: 0, other: qpr, role: A}
+- {away: 0, date: Aug/25, home: 3, other: west ham, role: H}
+- {away: 2, date: Sep/1, home: 2, other: sunder, role: H}
+- {away: 0, date: Sep/15, home: 2, other: aston villa, role: A}
+- {away: 3, date: Sep/22, home: 0, other: everton, role: H}
+- {away: 0, date: Sep/29, home: 2, other: stoke, role: A}
+- {away: 2, date: Oct/6, home: 2, other: reading, role: H}
+- {away: 1, date: Oct/20, home: 2, other: wigan, role: H}
+- {away: 0, date: Oct/27, home: 1, other: manchester city, role: A}
+- {away: 1, date: Nov/3, home: 1, other: chelsea, role: H}
+- {away: 1, date: Nov/10, home: 1, other: southampton, role: A}
+- {away: 2, date: Nov/17, home: 1, other: newcastle, role: A}
+- {away: 0, date: Nov/24, home: 0, other: liverpool, role: H}
+- {away: 1, date: Nov/27, home: 3, other: west brom, role: H}
+- {away: 2, date: Dec/1, home: 0, other: arsenal, role: A}
+- {away: 4, date: Dec/8, home: 3, other: norwich, role: H}
+- {away: 0, date: Dec/15, home: 1, other: tottenham, role: A}
+- {away: 1, date: Dec/22, home: 1, other: manchester united, role: H}
+- {away: 0, date: Dec/26, home: 0, other: reading, role: A}
+- {away: 2, date: Dec/29, home: 1, other: fulham, role: A}
+- {away: 2, date: Jan/1, home: 2, other: aston villa, role: H}
+- {away: 0, date: Jan/12, home: 0, other: everton, role: A}
+- {away: 1, date: Jan/19, home: 3, other: stoke, role: H}
+- {away: 0, date: Jan/29, home: 0, other: sunder, role: A}
+- {away: 0, date: Feb/2, home: 1, other: west ham, role: A}
+- {away: 1, date: Feb/9, home: 4, other: qpr, role: H}
+- {away: 0, date: Feb/17, home: 5, other: liverpool, role: A}
+- {away: 0, date: Mar/2, home: 1, other: newcastle, role: H}
+- {away: 1, date: Mar/9, home: 2, other: west brom, role: A}
+- {away: 2, date: Mar/16, home: 0, other: arsenal, role: H}
+- {away: 2, date: Mar/30, home: 1, other: tottenham, role: H}
+- {away: 2, date: Apr/6, home: 2, other: norwich, role: A}
+- {away: 3, date: May/7, home: 2, other: wigan, role: A}
+- {away: 0, date: Apr/20, home: 0, other: southampton, role: H}
+- {away: 0, date: Apr/28, home: 2, other: chelsea, role: A}
+- {away: 0, date: May/4, home: 0, other: manchester city, role: H}
+- {away: 1, date: May/12, home: 2, other: manchester united, role: A}
+- {away: 3, date: May/19, home: 0, other: fulham, role: H}
+tottenham:
+- {away: 1, date: Aug/18, home: 2, other: newcastle, role: A}
+- {away: 1, date: Aug/25, home: 1, other: west brom, role: H}
+- {away: 1, date: Sep/1, home: 1, other: norwich, role: H}
+- {away: 3, date: Sep/16, home: 1, other: reading, role: A}
+- {away: 1, date: Sep/23, home: 2, other: qpr, role: H}
+- {away: 3, date: Sep/29, home: 2, other: manchester united, role: A}
+- {away: 0, date: Oct/7, home: 2, other: aston villa, role: H}
+- {away: 4, date: Oct/20, home: 2, other: chelsea, role: H}
+- {away: 2, date: Oct/28, home: 1, other: southampton, role: A}
+- {away: 1, date: Nov/3, home: 0, other: wigan, role: H}
+- {away: 1, date: Nov/11, home: 2, other: manchester city, role: A}
+- {away: 2, date: Nov/17, home: 5, other: arsenal, role: A}
+- {away: 1, date: Nov/25, home: 3, other: west ham, role: H}
+- {away: 1, date: Nov/28, home: 2, other: liverpool, role: H}
+- {away: 3, date: Dec/1, home: 0, other: fulham, role: A}
+- {away: 1, date: Dec/9, home: 2, other: everton, role: A}
+- {away: 0, date: Dec/15, home: 1, other: swansea, role: H}
+- {away: 0, date: Dec/22, home: 0, other: stoke, role: H}
+- {away: 4, date: Dec/26, home: 0, other: aston villa, role: A}
+- {away: 2, date: Dec/29, home: 1, other: sunder, role: A}
+- {away: 1, date: Jan/1, home: 3, other: reading, role: H}
+- {away: 0, date: Jan/12, home: 0, other: qpr, role: A}
+- {away: 1, date: Jan/20, home: 1, other: manchester united, role: H}
+- {away: 1, date: Jan/30, home: 1, other: norwich, role: A}
+- {away: 1, date: Feb/3, home: 0, other: west brom, role: A}
+- {away: 1, date: Feb/9, home: 2, other: newcastle, role: H}
+- {away: 3, date: Feb/25, home: 2, other: west ham, role: A}
+- {away: 1, date: Mar/3, home: 2, other: arsenal, role: H}
+- {away: 2, date: Mar/10, home: 3, other: liverpool, role: A}
+- {away: 1, date: Mar/17, home: 0, other: fulham, role: H}
+- {away: 2, date: Mar/30, home: 1, other: swansea, role: A}
+- {away: 2, date: Apr/7, home: 2, other: everton, role: H}
+- {away: 2, date: May/8, home: 2, other: chelsea, role: A}
+- {away: 1, date: Apr/21, home: 3, other: manchester city, role: H}
+- {away: 2, date: Apr/27, home: 2, other: wigan, role: A}
+- {away: 0, date: May/4, home: 1, other: southampton, role: H}
+- {away: 2, date: May/12, home: 1, other: stoke, role: A}
+- {away: 0, date: May/19, home: 1, other: sunder, role: H}
+west brom:
+- {away: 0, date: Aug/18, home: 3, other: liverpool, role: H}
+- {away: 1, date: Aug/25, home: 1, other: tottenham, role: A}
+- {away: 0, date: Sep/1, home: 2, other: everton, role: H}
+- {away: 0, date: Sep/15, home: 3, other: fulham, role: A}
+- {away: 0, date: Sep/22, home: 1, other: reading, role: H}
+- {away: 1, date: Sep/30, home: 1, other: aston villa, role: A}
+- {away: 2, date: Oct/6, home: 3, other: qpr, role: H}
+- {away: 2, date: Oct/20, home: 1, other: manchester city, role: H}
+- {away: 1, date: Oct/28, home: 2, other: newcastle, role: A}
+- {away: 0, date: Nov/5, home: 2, other: southampton, role: H}
+- {away: 2, date: Nov/10, home: 1, other: wigan, role: A}
+- {away: 1, date: Nov/17, home: 2, other: chelsea, role: H}
+- {away: 4, date: Nov/25, home: 2, other: sunder, role: A}
+- {away: 1, date: Nov/27, home: 3, other: swansea, role: A}
+- {away: 1, date: Dec/1, home: 0, other: stoke, role: H}
+- {away: 0, date: Dec/8, home: 2, other: arsenal, role: A}
+- {away: 0, date: Dec/15, home: 0, other: west ham, role: H}
+- {away: 1, date: Dec/22, home: 2, other: norwich, role: H}
+- {away: 2, date: Dec/26, home: 1, other: qpr, role: A}
+- {away: 0, date: Dec/29, home: 2, other: manchester united, role: A}
+- {away: 2, date: Jan/1, home: 1, other: fulham, role: H}
+- {away: 2, date: Jan/12, home: 3, other: reading, role: A}
+- {away: 2, date: Jan/19, home: 2, other: aston villa, role: H}
+- {away: 1, date: Jan/30, home: 2, other: everton, role: A}
+- {away: 1, date: Feb/3, home: 0, other: tottenham, role: H}
+- {away: 2, date: Feb/11, home: 0, other: liverpool, role: A}
+- {away: 1, date: Feb/23, home: 2, other: sunder, role: H}
+- {away: 0, date: Mar/2, home: 1, other: chelsea, role: A}
+- {away: 1, date: Mar/9, home: 2, other: swansea, role: H}
+- {away: 0, date: Mar/16, home: 0, other: stoke, role: A}
+- {away: 1, date: Mar/30, home: 3, other: west ham, role: A}
+- {away: 2, date: Apr/6, home: 1, other: arsenal, role: H}
+- {away: 0, date: May/7, home: 1, other: manchester city, role: A}
+- {away: 1, date: Apr/20, home: 1, other: newcastle, role: H}
+- {away: 3, date: Apr/27, home: 0, other: southampton, role: A}
+- {away: 3, date: May/4, home: 2, other: wigan, role: H}
+- {away: 0, date: May/12, home: 4, other: norwich, role: A}
+- {away: 5, date: May/19, home: 5, other: manchester united, role: H}
+west ham:
+- {away: 0, date: Aug/18, home: 3, other: aston villa, role: H}
+- {away: 0, date: Aug/25, home: 3, other: swansea, role: A}
+- {away: 0, date: Sep/1, home: 3, other: fulham, role: H}
+- {away: 0, date: Sep/15, home: 0, other: norwich, role: A}
+- {away: 1, date: Sep/22, home: 1, other: sunder, role: H}
+- {away: 2, date: Oct/1, home: 1, other: qpr, role: A}
+- {away: 3, date: Oct/6, home: 1, other: arsenal, role: H}
+- {away: 1, date: Oct/20, home: 4, other: southampton, role: H}
+- {away: 1, date: Oct/27, home: 2, other: wigan, role: A}
+- {away: 0, date: Nov/3, home: 0, other: manchester city, role: H}
+- {away: 1, date: Nov/11, home: 0, other: newcastle, role: A}
+- {away: 1, date: Nov/19, home: 1, other: stoke, role: H}
+- {away: 1, date: Nov/25, home: 3, other: tottenham, role: A}
+- {away: 0, date: Nov/28, home: 1, other: manchester united, role: A}
+- {away: 1, date: Dec/1, home: 3, other: chelsea, role: H}
+- {away: 3, date: Dec/8, home: 2, other: liverpool, role: H}
+- {away: 0, date: Dec/15, home: 0, other: west brom, role: A}
+- {away: 2, date: Dec/22, home: 1, other: everton, role: H}
+- {away: 1, date: Dec/26, home: 5, other: arsenal, role: A}
+- {away: 0, date: Dec/29, home: 1, other: reading, role: A}
+- {away: 1, date: Jan/1, home: 2, other: norwich, role: H}
+- {away: 0, date: Jan/12, home: 3, other: sunder, role: A}
+- {away: 1, date: Jan/19, home: 1, other: qpr, role: H}
+- {away: 1, date: Jan/30, home: 3, other: fulham, role: A}
+- {away: 0, date: Feb/2, home: 1, other: swansea, role: H}
+- {away: 1, date: Feb/10, home: 2, other: aston villa, role: A}
+- {away: 3, date: Feb/25, home: 2, other: tottenham, role: H}
+- {away: 1, date: Mar/2, home: 0, other: stoke, role: A}
+- {away: 2, date: Apr/17, home: 2, other: manchester united, role: H}
+- {away: 0, date: Mar/17, home: 2, other: chelsea, role: A}
+- {away: 1, date: Mar/30, home: 3, other: west brom, role: H}
+- {away: 0, date: Apr/7, home: 0, other: liverpool, role: A}
+- {away: 1, date: Apr/13, home: 1, other: southampton, role: A}
+- {away: 0, date: Apr/20, home: 2, other: wigan, role: H}
+- {away: 1, date: Apr/27, home: 2, other: manchester city, role: A}
+- {away: 0, date: May/4, home: 0, other: newcastle, role: H}
+- {away: 0, date: May/12, home: 2, other: everton, role: A}
+- {away: 2, date: May/19, home: 4, other: reading, role: H}
+wigan:
+- {away: 2, date: Aug/19, home: 0, other: chelsea, role: H}
+- {away: 2, date: Aug/25, home: 0, other: southampton, role: A}
+- {away: 2, date: Sep/1, home: 2, other: stoke, role: H}
+- {away: 0, date: Sep/15, home: 4, other: manchester united, role: A}
+- {away: 2, date: Sep/22, home: 1, other: fulham, role: H}
+- {away: 0, date: Sep/29, home: 1, other: sunder, role: A}
+- {away: 2, date: Oct/6, home: 2, other: everton, role: H}
+- {away: 1, date: Oct/20, home: 2, other: swansea, role: A}
+- {away: 1, date: Oct/27, home: 2, other: west ham, role: H}
+- {away: 1, date: Nov/3, home: 0, other: tottenham, role: A}
+- {away: 2, date: Nov/10, home: 1, other: west brom, role: H}
+- {away: 0, date: Nov/17, home: 3, other: liverpool, role: A}
+- {away: 2, date: Nov/24, home: 3, other: reading, role: H}
+- {away: 2, date: Nov/28, home: 0, other: manchester city, role: H}
+- {away: 0, date: Dec/1, home: 3, other: newcastle, role: A}
+- {away: 2, date: Dec/8, home: 2, other: qpr, role: H}
+- {away: 1, date: Dec/15, home: 2, other: norwich, role: A}
+- {away: 1, date: Dec/22, home: 0, other: arsenal, role: H}
+- {away: 1, date: Dec/26, home: 2, other: everton, role: A}
+- {away: 3, date: Dec/29, home: 0, other: aston villa, role: A}
+- {away: 4, date: Jan/1, home: 0, other: manchester united, role: H}
+- {away: 1, date: Jan/12, home: 1, other: fulham, role: A}
+- {away: 3, date: Jan/19, home: 2, other: sunder, role: H}
+- {away: 2, date: Jan/29, home: 2, other: stoke, role: A}
+- {away: 2, date: Feb/2, home: 2, other: southampton, role: H}
+- {away: 1, date: Feb/9, home: 4, other: chelsea, role: A}
+- {away: 3, date: Feb/23, home: 0, other: reading, role: A}
+- {away: 4, date: Mar/2, home: 0, other: liverpool, role: H}
+- {away: 0, date: Apr/17, home: 1, other: manchester city, role: A}
+- {away: 1, date: Mar/17, home: 2, other: newcastle, role: H}
+- {away: 0, date: Mar/30, home: 1, other: norwich, role: H}
+- {away: 1, date: Apr/7, home: 1, other: qpr, role: A}
+- {away: 3, date: May/7, home: 2, other: swansea, role: H}
+- {away: 0, date: Apr/20, home: 2, other: west ham, role: A}
+- {away: 2, date: Apr/27, home: 2, other: tottenham, role: H}
+- {away: 3, date: May/4, home: 2, other: west brom, role: A}
+- {away: 1, date: May/14, home: 4, other: arsenal, role: A}
+- {away: 2, date: May/19, home: 2, other: aston villa, role: H}
